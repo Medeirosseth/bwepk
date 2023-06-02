@@ -1,0 +1,32 @@
+.shows {
+  color: white;
+  font-weight: 700;
+}
+
+.past {
+  font-weight: 100;
+  font-size: 10px;
+  text-decoration: line-through;
+}
+
+.s {
+  transform: rotate(25deg);
+}
+.h {
+  transform: rotate(-20deg);
+}
+.o {
+  transform: rotate(20deg);
+}
+.w {
+  transform: rotate(-15deg);
+}
+.Ss {
+  transform: rotate(10deg);
+}
+
+tr,
+th,
+td {
+  color: white;
+}

@@ -1,0 +1,25 @@
+.c {
+  transform: rotate(-20deg);
+}
+.o {
+  transform: rotate(25deg);
+}
+.n {
+  transform: rotate(30deg);
+}
+.t {
+  transform: rotate(-10deg);
+}
+.a {
+  transform: rotate(18deg);
+}
+.Cc {
+  transform: rotate(10deg);
+}
+.Tt {
+  transform: rotate(20deg);
+}
+
+.contact {
+  font-weight: 700;
+}

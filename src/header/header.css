@@ -1,0 +1,78 @@
+.listenNow {
+  background-color: #d49363;
+  color: white;
+  width: 100%;
+  font-size: 0.9rem !important;
+  letter-spacing: 2px;
+}
+
+.buddy {
+  margin-top: 65px;
+  font-weight: 800;
+}
+
+.middle {
+  flex: 8;
+  justify-content: end;
+}
+.right {
+  flex: 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rotateB {
+  color: white;
+  transform: rotate(20deg) !important;
+  background-color: pink;
+}
+
+.icon {
+  font-size: 22px;
+  color: white;
+}
+
+.titleB {
+  transform: rotate(20deg);
+}
+
+.titleU {
+  transform: rotate(-20deg);
+}
+.titleD {
+  transform: rotate(15deg);
+}
+.titleDd {
+  transform: rotate(25deg);
+}
+.titleY {
+  transform: rotate(-80deg);
+}
+.titleW {
+  transform: rotate(-20deg);
+}
+.titleY {
+  transform: rotate(20deg);
+}
+.titleN {
+  transform: rotate(20deg);
+}
+.titleK {
+  transform: rotate(-25deg);
+}
+.titleO {
+  transform: rotate(20deg);
+}
+.titleOo {
+  transform: rotate(-20deg);
+}
+.titleP {
+  transform: rotate(20deg);
+}
+
+@media screen and (min-width: 600px) {
+  .buddy {
+    font-size: 250px;
+  }
+}
